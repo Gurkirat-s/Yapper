@@ -1,7 +1,10 @@
 # Yapper
-Yapper is a social media app developed using React and  Next.js.
+Yapper is a social media app developed using React and  Next.js. Authenticate yourself and reate an account with Google to write posts, hearts posts and see content created by other users.
+[`Live Demo`](https://yapper.vercel.app/).
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Built With
+* [![Next](https://nextjs.org/)][Next-url]
+* [![React](https://reactjs.org/)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Getting Started
 
