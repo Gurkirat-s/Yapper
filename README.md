@@ -1,10 +1,25 @@
 # Yapper
-Yapper is a social media app developed using React and  Next.js. Authenticate yourself and reate an account with Google to write posts, hearts posts and see content created by other users.
-[`Live Demo`](https://yapper.vercel.app/).
 
-## Built With
-* [![Next](https://nextjs.org/)][Next-url
-* [![React](https://reactjs.org/)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[`Live Demo`](https://yapper.vercel.app/)
+
+## About This Project
+Yapper is a social media app developed using React and Next.js. Authenticate yourself and reate an account with Google to write posts, hearts posts and see content created by other users.
+Yapper uses Firebase authentication using Google to authenticate users. Users can then select a username to write posts. Posts, users, usernames, and hearts are stored in Firebase's Firestore.
+
+### Built With
+* [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+* [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+* ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+* ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Libraries
+* [`react-hook-form`](https://react-hook-form.com/)
+* [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks)
+* [`react-hot-toast`](https://react-hot-toast.com/)
+* [`react-markdown`](https://github.com/remarkjs/react-markdown)
 
 ## Getting Started
 
@@ -39,6 +54,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The app has been deployed using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The URL for the app is [yapper.vercel.app](https://yapper.vercel.app)
